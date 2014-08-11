@@ -1,0 +1,30 @@
+{
+  "name": "yellowpages",
+  "version": "1.0.0",
+  "description": "YellowPages search scrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sonnyt/yellowpages.git"
+  },
+  "dependencies": {
+    "async": "^0.9.0",
+    "cheerio": "^0.17.0",
+    "request": "^2.40.0"
+  },
+  "keywords": [
+    "yellowpages",
+    "yp",
+    "api",
+    "scrapper"
+  ],
+  "author": "Sonny T.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sonnyt/yellowpages/issues"
+  },
+  "homepage": "https://github.com/sonnyt/yellowpages"
+}
